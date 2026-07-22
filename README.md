@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banna.png" width="600" alt="NADA Banner" />
+  <img src="chat1.jpg" width="600" alt="NADA Banner" />
 </p>
 <p align="center">
   <img src="option.png" width="600" alt="NADA Options" />
