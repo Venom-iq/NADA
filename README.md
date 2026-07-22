@@ -2,9 +2,11 @@
   <img src="chat1.jpg" width="600" alt="NADA Banner" />
 </p>
 <p align="center">
-  <img src="option.png" width="600" alt="NADA Options" />
+  <img src="icon.png" width="600" alt="NADA Options" />
 </p>
-
+<p align="center">
+  <img src="chat0.jpg" width="600" alt="NADA Options" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-9%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 9+" />
   <img src="https://img.shields.io/badge/Status-Stable-22c55e?style=for-the-badge" alt="Status: Stable" />
