@@ -1,12 +1,7 @@
 <p align="center">
-  <img src="chat1.jpg" width="600" alt="NADA Banner" />
+  <img src="icon.png" width="300" alt="NADA Icon" />
 </p>
-<p align="center">
-  <img src="icon.png" width="600" alt="NADA Options" />
-</p>
-<p align="center">
-  <img src="chat0.jpg" width="600" alt="NADA Options" />
-</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Android-9%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 9+" />
   <img src="https://img.shields.io/badge/Status-Stable-22c55e?style=for-the-badge" alt="Status: Stable" />
@@ -25,6 +20,10 @@
 
 **NADA** turns your Android phone into an AI-powered assistant that can see your screen, understand what's happening, and act on your behalf — all on your device.
 
+<p align="center">
+  <img src="chat1.jpg" width="600" alt="NADA Chat Example 1" />
+</p>
+
 *   💬 **Seamless Messaging:** "Let Sarah know I'm stuck in traffic." → NADA instantly launches WhatsApp, locates the contact, drafts the exact message, and hits send—completely hands-free.
 *   👀 **Intelligent Auto-Pilot:** "Keep an eye on texts from my manager." → NADA stands by, scans incoming messages from that specific person, and generates context-aware replies while you focus on other things.
 *   🔍 **Frictionless Searching:** "Play some jazz on YouTube." → Watch as NADA opens the app, types your request into the search bar, and brings up the exact content in seconds.
@@ -37,6 +36,10 @@ No configuration per app. No hardcoded flows. It reads the screen and figures it
 ---
 
 ## ⚡ Features at a Glance
+
+<p align="center">
+  <img src="chat3.jpg" width="600" alt="NADA Chat Example 2" />
+</p>
 
 *   🤖 **Chat with AI** — Have natural conversations with an advanced on-device AI.
 *   ✉️ **Automated Dispatch** — Control WhatsApp, SMS, or any messaging app.
